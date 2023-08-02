@@ -5,6 +5,7 @@
    - JS
 - Em apredizado:
    - SQL
+   - Java
 ---
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" 
