@@ -1,15 +1,17 @@
 ### Oi, meu nome e Wallace Barros, Estudante de tecnologias Back-End.
 ---
 - Tecnologias Utilizadas:
-   - C
    - JS
+   - HTML
+   - CSS
 - Em apredizado:
    - SQL
-   - Java
+   - TS
+   - React
 ---
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" 
+  <img align="center" alt="JS" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
+<img align="center" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
 </div>
